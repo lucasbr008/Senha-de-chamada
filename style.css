@@ -1,0 +1,58 @@
+.barraSuperior{
+	height: 300px;
+	margin-top: 10px;
+}
+
+.senhaAtual{
+	text-align: center;
+	background-color: #003a5f;
+	color: white;
+	margin-top: 0px;
+}
+
+.senhaAtualTexto{
+	font-size: 75pt;
+	font-weight: 500;
+}
+
+#senhaAtualNumero{
+	font-size: 100pt;
+	font-weight: 1100;
+}
+
+.ultimaSenha{
+	font-weight: 1000;
+	text-align: center;
+	background-color: #ccc;
+	height: 130px;
+	margin-top: 20px;
+}
+
+#ultimaSenhaTexto{
+	font-size: 20px;
+	color: #a50;
+}
+
+#ultimaSenhaNumero{
+	font-size: 40px;
+	color: black;
+}
+
+.sisuLogo{
+	max-width: 300px;	
+}
+
+.uespiTexto{
+	font-size: 27pt;
+	font-weight: 1000;
+	color: #003a5f;
+}
+
+.subtitulo{
+	font-size: 30px;
+	font-weight: 400;
+}
+
+audio{
+	display: none;
+}
